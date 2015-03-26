@@ -33,7 +33,7 @@ $LANG = array(
 ################################################################################
 # Page : Homepage
 'HOMEPAGE_BIG_TEXT'		    =>  '
-    Ein freier, libre Und open-source Webcomic<br/>
+    Ein freier, libre und open-source Webcomic<br/>
     direkt durch seine F&ouml;rderer unterst&uuml;tzt<br/>
     um die Comic-Industrie zu ver&auml;ndern !<br/>
 ',
@@ -65,7 +65,7 @@ $LANG = array(
  <h2>Unterst&uuml;tzt durch F&ouml;rderer</h2>
     
     <p>Das Pepper&amp;Carrot Projekt wird nur von seinen F&ouml;rderern aus aller Welt finanziert.<br/>
-    Jeder F&ouml;rderer gibt ein bisschen Geld f&uuml;r jede neue Episode, und wird daf&uuml;r am ende der neuen Episode genannt.<br/>
+    Jeder F&ouml;rderer gibt ein bisschen Geld f&uuml;r jede neue Episode, und wird daf&uuml;r am Ende der neuen Episode genannt.<br/>
     Durch dieses System kann Pepper&amp;Carrot unabh&auml;ngig bleiben und ohne Werbung oder Marketingschmutz auskommen.</p> 
     
     <div class="philobutton">
@@ -87,7 +87,7 @@ $LANG = array(
 
     <h2>Open-source und permissiv</h2>
     
-    <p>Ich m&ouml;chte den Leuten das recht geben, das was ich produziert habe zu verwenden, zu erweitern und sogar Geld damit zu verdienen.<br/>    
+    <p>Ich m&ouml;chte den Leuten das Recht geben, das was ich produziert habe zu verwenden, zu erweitern und sogar Geld damit zu verdienen.<br/>    
     Alle Seiten, Kunstwerke und Inhalte wurden mit Freier/Libre- Open-Source Software unter GNU/Linux erstellt und alle Quellen sind auf dieser Webseite, &#39;Quellen&#39;
     Men&uuml;.<br/>
     Komerzielle Verwendung, &Uuml;bersetzungen, Fan-Art, Drucke, Filme, Videospiele, Verteilen und Verbreiten sind erw&uuml;nscht.<br/>
